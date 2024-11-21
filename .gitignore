@@ -1,2 +1,7 @@
-*.drawio.bkp
-*.drawio.dtmp
+
+# to ignore hidden files
+.*
+
+# drawio temp files
+.*.drawio.bkp
+.*.drawio.dtmp
