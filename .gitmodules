@@ -1,0 +1,3 @@
+[submodule "cupcake-api"]
+	path = cupcake-api
+	url = git@github.com:gissamuoda/cupcake-api.git
